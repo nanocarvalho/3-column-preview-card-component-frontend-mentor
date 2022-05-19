@@ -11,8 +11,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 
-- [Solution URL](#)
-- [Live Site URL](#)
+- [Solution URL](https://www.frontendmentor.io/solutions/3column-preview-card-component-WLVDTsWUky)
+- [Live Site URL](https://3-column-preview-card-component-frontend-mentor.pages.dev/)
 
 ## My process
 This time I tried using grid, it was fun! The process was simple, as the cards are the same, the html was simplified, as well as the css, I've just needed to add little individual stuff, like the colors of each one.
